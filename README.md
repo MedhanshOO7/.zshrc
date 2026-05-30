@@ -22,7 +22,7 @@ This repository follows a **modular, numbered approach**:
 ## Quick Start
 ```bash
 # Clone and copy
-git clone https://github.com/your-username/zshConfigs.git ~/zshConfigs
+git clone git@github.com:MedhanshOO7/.zshrc.git ~/zshConfigs
 cp -ri ~/zshConfigs/.zshrc ~/.zshrc
 cp -ri ~/zshConfigs/.zsh ~/.zsh
 ```
